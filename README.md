@@ -1,0 +1,2 @@
+# TextSQLConverter
+The project aims to enable non-technical individuals within the company to ask critical questions about the database using NLP. Here, instead of creating separate features for each question, the system dynamically generate SQL queries based on user questions using LangChain agents and OpenAi. The process involves enhancing the language model's prompt with knowledge about database access, allowing it to generate SQL queries that fetch relevant information. 
